@@ -1,7 +1,7 @@
-# Student_Eval_data
-Analyzing student evaluation data
+# Analyzing student evaluation data
 
-'''Dataset Description
+
+Dataset Description
 
 instr: Instructor's identifier; values taken from {1,2,3}
 class: Course code (descriptor); values taken from {1-13}
@@ -37,4 +37,4 @@ Q26: The Instructor's evaluation system (midterm and final questions, projects, 
 Q27: The Instructor provided solutions to exams and discussed them with students.
 Q28: The Instructor treated all students in a right and objective manner.
 
-Q1-Q28 are all Likert-type, meaning that the values are taken from {1,2,3,4,5}'''
+Q1-Q28 are all Likert-type, meaning that the values are taken from {1,2,3,4,5}
